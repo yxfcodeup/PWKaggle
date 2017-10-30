@@ -1,2 +1,4 @@
 # PWKaggle
-This is my codes for kaggle competition
+
+## Practices
+* [Titanic:Machine Learning from Disaster](./Pratices/Titanic)
