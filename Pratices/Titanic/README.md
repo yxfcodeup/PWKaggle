@@ -82,3 +82,8 @@ parch: The dataset defines family relations in this way...
 Parent = mother, father  
 Child = daughter, son, stepdaughter, stepson  
 Some children travelled only with a nanny, therefore parch=0 for them.  
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
